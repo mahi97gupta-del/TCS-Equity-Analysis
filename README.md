@@ -12,4 +12,4 @@ An end-to-end financial analysis of Tata Consultancy Services (2020–2024).
 * Analyzed the correlation between Debt-to-Equity ratios and Net Profit margins.
 
 ## 📁 Project File
-* [View Full Report (PDF)](LINK_TO_YOUR_PDF_HERE)
+* [View Full Report (PDF)](https://github.com/mahi97gupta-del/TCS-Equity-Analysis/blob/main/TCS_Equity_Research.pdf)
